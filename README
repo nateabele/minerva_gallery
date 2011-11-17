@@ -1,0 +1,7 @@
+This is a plugin for the Minerva CMS.
+
+To use this plugin, make sure that you have the minerva plugin and enable it like any other plugin...
+
+Libraries::add('minerva_gallery');
+
+Make sure to add this library after adding minerva.
